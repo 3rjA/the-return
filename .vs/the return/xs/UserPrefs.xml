@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{06932D0A-D6FB-0743-F763-B822E07BF155}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Actions/Examine.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Actions/Use.cs" Line="5" Column="44" />
+      <File FileName="Assets/Scripts/Player.cs" Line="45" Column="6" />
+      <File FileName="Assets/Scripts/Actions/Inventory.cs" />
+      <File FileName="Assets/Scripts/Location.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Interactions.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Connection.cs" />
+      <File FileName="Assets/Scripts/Item.cs" Line="25" Column="10" />
+      <File FileName="Assets/Scripts/Actions/Examine.cs" Line="29" Column="14" />
+      <File FileName="Assets/Scripts/Actions/Go.cs" />
+      <File FileName="Assets/Scripts/GameController1.cs" Line="99" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="the return" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Actions" expanded="True">
+                  <Node name="Examine.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b193831a-d687-4c07-983a-bb7d50fb29a5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
